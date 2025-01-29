@@ -1,2 +1,1 @@
-# watermill-opentelemetry
-Voi Bugbounty POC
+# Voi Bugbounty POC
